@@ -1,0 +1,26 @@
+1.Sort By Age 2.Sort By Salary 
+ Enter the option: 1
+   EmployeeID EmployeeName       City  Age  Salary
+7        1008         Ryan    Chennai   23   28000
+5        1006        Wasim       Pune   25   20000
+8        1009        Vinod  Ahmedabad   25   31000
+4        1005       Ritesh      Dehli   28   43000
+3        1004       Fareed   Kolkatta   31   23000
+6        1007        Qadir   Hydrabad   31   42000
+2        1003        Vamsi    Chennai   32   30000
+1        1002        tarun     Mumbai   34   34000
+0        1001       Suresh   Hydrabad   43   45000
+Do u want to continue y/n y
+ 1.Sort By Age 2.Sort By Salary 
+ Enter the option: 2
+   EmployeeID EmployeeName       City  Age  Salary
+5        1006        Wasim       Pune   25   20000
+3        1004       Fareed   Kolkatta   31   23000
+7        1008         Ryan    Chennai   23   28000
+2        1003        Vamsi    Chennai   32   30000
+8        1009        Vinod  Ahmedabad   25   31000
+1        1002        tarun     Mumbai   34   34000
+6        1007        Qadir   Hydrabad   31   42000
+4        1005       Ritesh      Dehli   28   43000
+0        1001       Suresh   Hydrabad   43   45000
+Do u want to continue y/n n
